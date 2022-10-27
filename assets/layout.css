@@ -1,0 +1,22 @@
+.layout {
+    display: grid;
+    grid-template-columns: 275px auto 350px;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+  
+  .layout__right-sidebar-container {
+    width: 350px;
+    
+}
+
+.layout__left-sidebar{
+  position: sticky;
+  width: 260px;
+  height: 100vh;
+
+
+}
+.layout__right-sidebar-container{
+  padding-left: 30px;
+}

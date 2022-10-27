@@ -1,0 +1,93 @@
+.trends-for-you {
+    border-radius: 15px;
+    background: #f5f8fa;
+    margin-bottom: 15px;
+    
+    
+  }
+  
+  .trends-for-you__block {
+    border-bottom: 1px solid #e6ecf0;
+    padding: 10px 15px;
+    
+  
+  }
+  
+  .trends-for-you__block:last-child {
+    border-bottom: none;
+  }
+  
+  .trends-for-you__heading {
+    font-size: 19px;
+    font-weight: bold;
+    color: #14171a;
+  }
+  
+  .trends-for-you__meta-information {
+    font-size: 13px;
+    font-weight: 300;
+    color: #657786;
+  }
+  
+  .trends-for-you__trend-name {
+    font-size: 15px;
+    color: #14171a;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 2px;
+  }
+  .search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 10;
+    z-index: 1;
+    height: 44px;
+    margin-bottom: 16px;
+    background-color: #eff3f4;
+    border-radius: 50px;
+    font-size: 20px;
+    
+    
+  }
+  .search-bar input {
+    background-color: #eff3f4;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    outline: none;
+    padding-right: 60px;
+    margin-bottom: 3px;
+    border: none;
+    margin-right: 55px;
+  }
+  
+  .search-icon .search {
+    padding-left: 20px;
+    margin-top: 10px;
+    height: 19px;
+    fill: rgb(121 135 146);
+  }
+  /* Footer */
+.footer ul li {
+  display: inline-flex;
+  padding-right: 2px;
+}
+.footer ul li:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.footer-links {
+  list-style-type: none;
+  font-size: 13px;
+  font-weight: 400;
+  color: #536471;
+}
+.footer-icon {
+  width: 17px;
+  fill: #536471;
+}
+.copyright {
+  color: #536471;
+}
+  
