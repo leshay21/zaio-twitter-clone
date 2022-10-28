@@ -20,6 +20,7 @@
     height: 49px;
     border-radius: 50px;
     margin-right: 10px;
+    cursor: pointer;
   }
   
   .who-to-follow__author-slug {
@@ -30,6 +31,7 @@
   .who-to-follow__author-name {
     font-size: 15px;
     font-weight: 700;
+    cursor: pointer;
   }
   
   .who-to-follow__content {

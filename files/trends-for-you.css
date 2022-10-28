@@ -27,6 +27,7 @@
     font-size: 13px;
     font-weight: 300;
     color: #657786;
+  
   }
   
   .trends-for-you__trend-name {
@@ -35,6 +36,7 @@
     font-weight: bold;
     margin-bottom: 5px;
     margin-top: 2px;
+    cursor: pointer;
   }
   .search-bar {
     display: flex;
